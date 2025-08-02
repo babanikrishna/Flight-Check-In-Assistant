@@ -1,0 +1,138 @@
+/* Import fonts first */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Aeonik Font Faces */
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Air.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('../assets/fonts/Aeonik-Black.woff2') format('woff2');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-900 font-aeonik;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-lg border border-gray-200 shadow-sm;
+  }
+  
+  .btn-primary {
+    @apply bg-primary-600 hover:bg-primary-700 text-white font-aeonik font-medium px-4 py-2 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-100 hover:bg-gray-200 text-gray-900 font-aeonik font-medium px-4 py-2 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2;
+  }
+  
+  .input-field {
+    @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all duration-200 font-aeonik;
+  }
+  
+  /* Blue Glassmorphic Styles */
+  .glass-blue {
+    @apply bg-blue-500/20 backdrop-blur-xl border border-blue-400/30 shadow-2xl shadow-blue-500/10;
+  }
+  
+  .glass-blue-button {
+    @apply bg-blue-600/80 hover:bg-blue-500/90 backdrop-blur-md border border-blue-400/50 text-white shadow-lg shadow-blue-500/20 transition-all duration-300 hover:shadow-blue-500/30 hover:border-blue-300/60;
+  }
+  
+  .glass-blue-panel {
+    @apply bg-blue-50/95 backdrop-blur-xl border border-blue-200/60 shadow-2xl shadow-blue-500/10;
+  }
+  
+  .glass-blue-nav {
+    @apply bg-blue-900/25 backdrop-blur-md border border-blue-400/30 shadow-2xl shadow-blue-500/15;
+  }
+  
+  .glass-blue-input {
+    @apply bg-blue-50/50 border border-blue-200/60 focus:border-blue-400/80 focus:ring-blue-500/30 backdrop-blur-sm;
+  }
+  
+  .glass-blue-secondary {
+    @apply bg-blue-100/60 hover:bg-blue-200/70 border border-blue-300/50 text-blue-800 backdrop-blur-sm shadow-sm shadow-blue-500/10 transition-all duration-300;
+  }
+  
+  /* Dark Matte Theme for Add Flight Dialog */
+  .glass-dark-panel {
+    @apply bg-gray-900/95 backdrop-blur-xl border border-gray-700/60 shadow-2xl shadow-black/20;
+  }
+  
+  .glass-dark-input {
+    @apply bg-gray-800/50 border border-gray-600/60 text-gray-100 placeholder-gray-400 focus:border-gray-500/80 focus:ring-gray-500/30 backdrop-blur-sm;
+  }
+  
+  .glass-dark-button {
+    @apply bg-gray-700/80 hover:bg-gray-600/90 border border-gray-600/50 text-gray-100 backdrop-blur-md shadow-lg shadow-black/20 transition-all duration-300 hover:shadow-black/30 hover:border-gray-500/60;
+  }
+}

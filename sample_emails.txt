@@ -1,0 +1,506 @@
+FLIGHT ASSISTANT - 20 SAMPLE EMAILS TO TRY
+===========================================
+
+Copy and paste any of these sample emails into the Flight Assistant to test different airlines, routes, and email formats:
+
+---
+
+1. BRITISH AIRWAYS - LONDON TO NEW YORK
+----------------------------------------
+Subject: Your British Airways Flight Confirmation - BA117
+
+Dear John Smith,
+
+Thank you for booking with British Airways.
+
+Flight Details:
+Flight: BA117
+From: LHR (London Heathrow)
+To: JFK (New York JFK)
+Date: March 15, 2024
+Departure: 2:30 PM
+Arrival: 5:45 PM
+Gate: T5-A12
+Seat: 14F
+
+Confirmation Code: ABC123
+Check-in opens 24 hours before departure.
+
+Best regards,
+British Airways
+
+---
+
+2. UNITED AIRLINES - CHICAGO TO LOS ANGELES
+-------------------------------------------
+Subject: Flight Confirmation UA567
+
+Dear Sarah Johnson,
+
+Your United Airlines flight is confirmed.
+
+Flight Information:
+Flight: UA567
+Departure: ORD (Chicago O'Hare)
+Arrival: LAX (Los Angeles)
+Date: 01/15/2025
+Departure Time: 8:15 AM
+Arrival Time: 10:30 AM
+Gate: B18
+Terminal: 1
+Seat: 22C
+
+Booking Reference: XYZ789
+
+Thank you for choosing United Airlines.
+
+Best regards,
+United Airlines Team
+
+---
+
+3. EMIRATES - DUBAI TO LONDON
+-----------------------------
+Subject: Emirates Flight Confirmation EK029
+
+Dear Ahmed Hassan,
+
+Flight Confirmation Details:
+
+Flight: EK029
+From: DXB (Dubai International)
+To: LHR (London Heathrow)
+Date: February 20, 2024
+Departure: 11:45 AM
+Arrival: 4:20 PM
+Terminal: 3
+Gate: C7
+Seat: 8A
+
+Confirmation: EMR456
+
+Safe travels with Emirates.
+
+---
+
+4. AMERICAN AIRLINES - NEW YORK TO MIAMI
+----------------------------------------
+Subject: AA Flight Confirmation - AA1234
+
+Dear Maria Rodriguez,
+
+Your American Airlines reservation is confirmed.
+
+Flight Details:
+Flight Number: AA1234
+From: JFK (New York)
+To: MIA (Miami)
+Travel Date: April 10, 2024
+Departure: 6:20 PM
+Arrival: 9:35 PM
+Seat: 12D
+Gate: A5
+
+Confirmation Code: AA789X
+
+Thank you for flying with American Airlines.
+
+---
+
+5. LUFTHANSA - FRANKFURT TO TOKYO
+---------------------------------
+Subject: Lufthansa Flight LH715 Confirmation
+
+Dear Hans Mueller,
+
+Flight Confirmation:
+Flight: LH715
+Departure: FRA (Frankfurt)
+Arrival: NRT (Tokyo Narita)
+Date: May 8, 2024
+Departure Time: 7:00 AM
+Arrival Time: 11:30 PM
+Seat: 25E
+Gate: Z12
+
+Booking Reference: LH567B
+
+Guten Flug,
+Lufthansa
+
+---
+
+6. DELTA AIRLINES - SEATTLE TO ATLANTA
+--------------------------------------
+Subject: Delta Flight Confirmation DL892
+
+Dear Jennifer Davis,
+
+Your Delta flight is confirmed:
+
+Flight: DL892
+From: SEA (Seattle)
+To: ATL (Atlanta)
+Date: June 12, 2024
+Departure: 1:15 PM
+Arrival: 9:30 PM
+Seat: 16B
+Gate: N8
+Terminal: S
+
+Confirmation: DT345M
+
+Best regards,
+Delta Air Lines
+
+---
+
+7. AIR FRANCE - PARIS TO NEW YORK
+---------------------------------
+Subject: Confirmation de vol Air France AF007
+
+Dear Pierre Dubois,
+
+Flight Confirmation:
+Flight: AF007
+From: CDG (Paris Charles de Gaulle)
+To: JFK (New York)
+Date: July 3, 2024
+Departure: 3:35 AM
+Arrival: 6:15 AM
+Terminal: 2E
+Seat: 31A
+Gate: L22
+
+Reference: AF123P
+
+Bon voyage,
+Air France
+
+---
+
+8. SINGAPORE AIRLINES - SINGAPORE TO LOS ANGELES
+------------------------------------------------
+Subject: Singapore Airlines Flight Confirmation SQ037
+
+Dear Li Wei,
+
+Flight Details:
+Flight: SQ037
+Departure: SIN (Singapore Changi)
+Arrival: LAX (Los Angeles)
+Date: August 18, 2024
+Departure Time: 11:35 PM
+Arrival Time: 10:50 PM
+Terminal: T3
+Seat: 42K
+Gate: B8
+
+Booking Reference: SQ789L
+
+Thank you for choosing Singapore Airlines.
+
+---
+
+9. QANTAS - SYDNEY TO LONDON
+----------------------------
+Subject: Qantas Flight QF001 Booking Confirmation
+
+Dear Mark Wilson,
+
+G'day! Your Qantas flight is confirmed.
+
+Flight: QF001
+From: SYD (Sydney)
+To: LHR (London Heathrow)
+Date: September 5, 2024
+Departure: 11:15 AM
+Arrival: 5:10 PM
+Seat: 7C
+Gate: Gate 15
+
+Confirmation Code: QF456R
+
+Safe travels,
+Qantas Airways
+
+---
+
+10. TURKISH AIRLINES - ISTANBUL TO NEW YORK
+-------------------------------------------
+Subject: Turkish Airlines Flight Confirmation TK001
+
+Dear Mehmet Ozkan,
+
+Your Turkish Airlines booking is confirmed.
+
+Flight Information:
+Flight: TK001
+From: IST (Istanbul)
+To: JFK (New York)
+Date: October 14, 2024
+Departure: 2:25 PM
+Arrival: 6:45 PM
+Seat: 19F
+Terminal: International
+Gate: D4
+
+Booking Reference: TK234S
+
+İyi yolculuklar,
+Turkish Airlines
+
+---
+
+11. CATHAY PACIFIC - HONG KONG TO SAN FRANCISCO
+-----------------------------------------------
+Subject: Cathay Pacific Flight CX872 Confirmation
+
+Dear Kevin Chan,
+
+Flight Confirmation Details:
+
+Flight: CX872
+From: HKG (Hong Kong)
+To: SFO (San Francisco)
+Date: November 22, 2024
+Departure: 4:15 PM
+Arrival: 11:30 AM
+Terminal: 1
+Seat: 28A
+Gate: 35
+
+Confirmation: CX567T
+
+Thank you for choosing Cathay Pacific.
+
+---
+
+12. KLM - AMSTERDAM TO TOKYO
+----------------------------
+Subject: KLM Flight KL861 Confirmation
+
+Dear Anna van Berg,
+
+Your KLM Royal Dutch Airlines flight is confirmed.
+
+Flight: KL861
+Departure: AMS (Amsterdam Schiphol)
+Arrival: NRT (Tokyo Narita)
+Date: December 8, 2024
+Departure Time: 1:40 PM
+Arrival Time: 9:55 AM+1
+Seat: 23B
+Gate: D23
+
+Booking Reference: KL789U
+
+Prettige reis,
+KLM Royal Dutch Airlines
+
+---
+
+13. SOUTHWEST AIRLINES - DALLAS TO CHICAGO
+------------------------------------------
+Subject: Southwest Airlines Confirmation - WN1847
+
+Dear Robert Taylor,
+
+Your Southwest flight is ready for takeoff!
+
+Flight: WN1847
+From: DFW (Dallas/Fort Worth)
+To: MDW (Chicago Midway)
+Date: January 20, 2025
+Departure: 9:45 AM
+Arrival: 12:15 PM
+Confirmation Number: SW123V
+
+No assigned seats - choose when you check in!
+
+Thanks for choosing Southwest!
+
+---
+
+14. JETBLUE - BOSTON TO LOS ANGELES
+-----------------------------------
+Subject: JetBlue Flight B61234 Confirmation
+
+Dear Lisa Brown,
+
+Your JetBlue flight confirmation:
+
+Flight: B61234
+From: BOS (Boston Logan)
+To: LAX (Los Angeles)
+Date: February 28, 2025
+Departure: 7:20 AM
+Arrival: 10:45 AM
+Seat: 15A
+Terminal: C
+Gate: C12
+
+Confirmation Code: JB456W
+
+Fly happy with JetBlue!
+
+---
+
+15. VIRGIN ATLANTIC - LONDON TO LOS ANGELES
+-------------------------------------------
+Subject: Virgin Atlantic Flight VS023 Confirmation
+
+Dear James Miller,
+
+Your Virgin Atlantic flight is confirmed:
+
+Flight: VS023
+From: LHR (London Heathrow)
+To: LAX (Los Angeles)
+Date: March 18, 2025
+Departure: 11:30 AM
+Arrival: 2:45 PM
+Terminal: 3
+Seat: 45C
+Gate: A15
+
+Booking Reference: VS789X
+
+See you on board,
+Virgin Atlantic
+
+---
+
+16. ALASKA AIRLINES - ANCHORAGE TO SEATTLE
+------------------------------------------
+Subject: Alaska Airlines Flight AS123 Confirmation
+
+Dear Michael Thompson,
+
+Your Alaska Airlines flight details:
+
+Flight: AS123
+From: ANC (Anchorage)
+To: SEA (Seattle)
+Date: April 5, 2025
+Departure: 6:30 AM
+Arrival: 10:15 AM
+Seat: 8D
+Gate: N2
+
+Confirmation: AS234Y
+
+Thank you for flying Alaska Airlines!
+
+---
+
+17. SPIRIT AIRLINES - FORT LAUDERDALE TO NEW YORK
+-------------------------------------------------
+Subject: Spirit Airlines Flight NK456 Confirmation
+
+Dear Ashley Garcia,
+
+Your Spirit flight is confirmed:
+
+Flight: NK456
+From: FLL (Fort Lauderdale)
+To: LGA (New York LaGuardia)
+Date: May 12, 2025
+Departure: 3:45 PM
+Arrival: 6:20 PM
+Seat: 21F
+Terminal: 4
+
+Confirmation Code: NK567Z
+
+Bare Fare™ confirmed,
+Spirit Airlines
+
+---
+
+18. HAWAIIAN AIRLINES - HONOLULU TO LOS ANGELES
+-----------------------------------------------
+Subject: Hawaiian Airlines Flight HA025 Confirmation
+
+Dear David Kim,
+
+Aloha! Your Hawaiian Airlines flight is confirmed.
+
+Flight: HA025
+From: HNL (Honolulu)
+To: LAX (Los Angeles)
+Date: June 8, 2025
+Departure: 11:20 PM
+Arrival: 7:35 AM+1
+Seat: 12C
+Terminal: 2
+Gate: 42
+
+Confirmation: HA345A
+
+Mahalo for choosing Hawaiian Airlines!
+
+---
+
+19. FRONTIER AIRLINES - DENVER TO ORLANDO
+-----------------------------------------
+Subject: Frontier Airlines Flight F9789 Confirmation
+
+Dear Jessica Martinez,
+
+Your Frontier flight confirmation:
+
+Flight: F9789
+From: DEN (Denver)
+To: MCO (Orlando)
+Date: July 15, 2025
+Departure: 2:10 PM
+Arrival: 7:25 PM
+Seat: 18B
+Terminal: A
+
+Booking Reference: FR456B
+
+Low fares done right,
+Frontier Airlines
+
+---
+
+20. SUN COUNTRY AIRLINES - MINNEAPOLIS TO LAS VEGAS
+---------------------------------------------------
+Subject: Sun Country Airlines Flight SY234 Confirmation
+
+Dear Ryan Anderson,
+
+Your Sun Country Airlines flight is confirmed:
+
+Flight: SY234
+From: MSP (Minneapolis)
+To: LAS (Las Vegas)
+Date: August 25, 2025
+Departure: 4:55 PM
+Arrival: 6:40 PM
+Seat: 26A
+Gate: G8
+
+Confirmation Code: SY789C
+
+Thank you for choosing Sun Country Airlines!
+
+---
+
+USAGE INSTRUCTIONS:
+==================
+1. Copy any email from above
+2. Paste it into the Flight Assistant email input
+3. Click "Parse Email" to extract flight details
+4. View the beautiful flight visualization on the globe!
+
+These emails cover:
+- 20 different airlines
+- Various domestic and international routes
+- Different email formats and layouts
+- Multiple time zones and date formats
+- Different airport codes worldwide
+
+Enjoy testing the Flight Assistant! ✈️
